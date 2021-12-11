@@ -1,7 +1,7 @@
 # esx_atm
-Redesign of ESX atm Done By: THC
+# Redesign of ESX atm Done By: THC #
 
-https://discord.gg/2ezHMPnnar
+# https://discord.gg/edEHxu9thw #
 
 ---------------------------------
 
